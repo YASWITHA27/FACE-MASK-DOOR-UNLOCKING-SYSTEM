@@ -6,3 +6,7 @@ We have developed and trained our model in Google Colab using Cascade classifier
 
 # Proposed Cascade classifier 
 ![image](https://user-images.githubusercontent.com/73469122/126068915-b632fa51-f331-4098-895c-697898016f95.png)
+
+# TinkerCad Circuit 
+![image](https://user-images.githubusercontent.com/73469122/126069884-491ef068-dd02-4fe9-b107-d218866538ce.png)
+
